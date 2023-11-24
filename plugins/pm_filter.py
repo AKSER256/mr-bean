@@ -1615,12 +1615,7 @@ async def auto_filter(client, msg, spoll=False):
         )
 
     btn.insert(0, [
-        InlineKeyboardButton("! 𝑺𝒆𝒏𝒅 𝒂𝒍𝒍 🛡️", callback_data=f"send_fall#{pre}#{0}#{message.from_user.id}"),
-        InlineKeyboardButton("🔋 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 🔋", callback_data=f"select_lang#{message.from_user.id}")
-    ])
-
-    btn.insert(0, [
-        InlineKeyboardButton("𝑩𝒐𝒕 𝒑𝒎 💎", url=f"https://t.me/{temp.U_NAME}")
+        InlineKeyboardButton('👇 𝑌𝑜𝑢𝑟 𝑓𝑖𝑙𝑒𝑠 𝑖𝑠 𝑟𝑒𝑎𝑑𝑦 𝑛𝑜𝑤 👇', 'ginfo' )
     ])
 
     if offset != "":
