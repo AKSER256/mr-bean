@@ -8,17 +8,17 @@ class script(object):
     HELP_TXT = """<b>🔊 എന്റെ പണിയായുധങ്ങൾ ഇതാ നിങ്ങൾക്ക് തുറന്നു തന്നിരിക്കുന്നു..!</b>"""
 
     ABOUT_TXT = """<b>🤖 𝑴𝒚 𝑵𝒂𝒎𝒆: {}
-👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/AJTGx'>𝑨𝑱 𝑻𝑮</a>
+👨‍💻 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 : <a href='https://t.me/R0lexxser'>𝐑𝐎𝐋𝐄𝐗 𝐒𝐄𝐑</a>
 📚 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</a>
 📝 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <a href='https://www.python.org/download/releases/3.0/'>𝑷𝒚𝒕𝒉𝒐𝒏 3</a>
 📡 𝑯𝒐𝒔𝒕𝒆𝒅 𝑶𝒏 : <a href=' https://www.koyeb.com/'>𝑲𝒐𝒚𝒆𝒃</a>
-👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href='https://t.me/moviesworld_malayalam'>𝑴𝒘𝑴</a>
-📢 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='https://t.me/+kzIZY6esOHw5YmRl'>𝑴𝒘𝑴 𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢</a>"""
+👥 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 : <a href='https://t.me/cinemacompany_3'>ᑕIᑎEᗰᗩ ᑕOᗰᗩᑎY</a>
+📢 𝑼𝒑𝒅𝒂𝒕𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 : <a href='https://t.me/cinemacompany_2k24'>ᑕᑕ 𝑼𝑷𝑫𝑨𝑻𝑬𝑺 📢</a>"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - നോക്കണ്ട കിട്ടൂല 😁
-- തൊട്ട് നോക്ക് 😌 - <a href="https://t.me/AJTGx">𝑨𝑱 𝑻𝑮</a>
+- തൊട്ട് നോക്ക് 😌 - <a href="https://t.me/R0lexxser">𝐑𝐎𝐋𝐄𝐗 𝐒𝐄𝐑</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/AJTGx">Aᴊ ᠰ Tɢ</a></b>"""
+- <a href="https://t.me/R0lexxser">𝐑𝐎𝐋𝐄𝐗 𝐒𝐄𝐑</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/moviehub_2k24)</code>
+<code>[Button Text](buttonurl:https://t.me/cinemacompany_2k24)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -165,9 +165,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴀᴛʜᴜʟ ᴅx
-• ᴜꜱᴇʀɴᴀᴍᴇ : @AJTGx
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/AJTGx'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝐑𝐎𝐋𝐄𝐗 𝐒𝐄𝐑
+• ᴜꜱᴇʀɴᴀᴍᴇ : @R0lexxser
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/R0lexxser'>𝐑𝐎𝐋𝐄𝐗 𝐒𝐄𝐑</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -223,8 +223,8 @@ Eg:
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : https://t.me/+kzIZY6esOHw5YmRl
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @moviesworld_malayalam
+▫️ ᴄʜᴀɴɴᴇʟ : @cinemacompany_2k24
+▫️ ɢʀᴏᴜᴘ : @cinemacompany_3
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
